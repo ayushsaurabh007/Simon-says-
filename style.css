@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: rgb(107, 171, 207);
+}
+
+.heading{
+    text-align: center;
+}
+
+.heading h1{
+    margin: 40px;
+}
+.div-cont{
+    display: flex;
+    justify-content: center;
+
+}
+
+.bttn{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black ;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.blue{
+background-color: rgb(28, 117, 189);
+}
+
+.red{
+background-color: rgb(197, 72, 72);
+}
+
+.purple{
+background-color: rgb(116, 21, 172);
+}
+
+.yellow{
+background-color: rgb(167, 175, 52);
+}
+
+.blink{
+    background-color: white;
+}
+
+.blink-user{
+    background-color: rgb(2, 22, 2);
+}
